@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a57f9999d2399a4791bc2c3a2290ced
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194780
+  packageName: Magic Leap Setup Tool
+  packageVersion: 2.0.14
+  assetPath: Packages/com.magicleap.setuptool/README.md
+  uploadId: 716499

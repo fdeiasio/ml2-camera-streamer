@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a4cb81cc22cd9e141b833875fb1b0c7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194780
+  packageName: Magic Leap Setup Tool
+  packageVersion: 2.0.14
+  assetPath: Packages/com.magicleap.setuptool/Editor/SetupProcess/SetupSteps/ImportMagicLeapSdkStep.cs
+  uploadId: 716499

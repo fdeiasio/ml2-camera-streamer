@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3748581579094f16986c29f3d4040d13
+timeCreated: 1709931929
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194780
+  packageName: Magic Leap Setup Tool
+  packageVersion: 2.0.14
+  assetPath: Packages/com.magicleap.setuptool/Editor/SetupProcess/Utilities/DefineSymbolUtility.cs
+  uploadId: 716499

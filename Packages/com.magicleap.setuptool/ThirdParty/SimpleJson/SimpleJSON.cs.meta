@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f68af99c7e97ee54d8974da953a57f14
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194780
+  packageName: Magic Leap Setup Tool
+  packageVersion: 2.0.14
+  assetPath: Packages/com.magicleap.setuptool/ThirdParty/SimpleJson/SimpleJSON.cs
+  uploadId: 716499

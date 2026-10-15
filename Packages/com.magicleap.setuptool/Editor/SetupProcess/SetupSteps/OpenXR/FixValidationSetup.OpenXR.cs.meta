@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b8dfee8b3fc04622b3e3b6f95cb4955f
+timeCreated: 1709918629
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194780
+  packageName: Magic Leap Setup Tool
+  packageVersion: 2.0.14
+  assetPath: Packages/com.magicleap.setuptool/Editor/SetupProcess/SetupSteps/OpenXR/FixValidationSetup.OpenXR.cs
+  uploadId: 716499

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ecbda38734cc4b2da266dc546e292678
+timeCreated: 1710084547
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194780
+  packageName: Magic Leap Setup Tool
+  packageVersion: 2.0.14
+  assetPath: Packages/com.magicleap.setuptool/Editor/SetupProcess/Utilities/EditorHelpers.cs
+  uploadId: 716499

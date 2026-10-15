@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27cc02e8a23eabd4081986c756536662
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194780
+  packageName: Magic Leap Setup Tool
+  packageVersion: 2.0.14
+  assetPath: Packages/com.magicleap.setuptool/ThirdParty/SimpleJson/LICENSE.txt
+  uploadId: 716499

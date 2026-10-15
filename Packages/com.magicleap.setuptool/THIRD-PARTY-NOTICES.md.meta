@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c856ec2626458064cb8749ca3b2e1d54
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 194780
+  packageName: Magic Leap Setup Tool
+  packageVersion: 2.0.14
+  assetPath: Packages/com.magicleap.setuptool/THIRD-PARTY-NOTICES.md
+  uploadId: 716499
